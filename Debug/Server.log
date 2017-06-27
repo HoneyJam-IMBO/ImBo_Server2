@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(18): warning C4996: 'vswprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1835): note: 'vswprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(22): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(30): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(36): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(41): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(65): warning C4996: 'vswprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1835): note: 'vswprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(69): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(77): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(83): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+c:\users\potri\desktop\imbo_projects\imbo_projects\assets\import\lowlib\log.h(88): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
